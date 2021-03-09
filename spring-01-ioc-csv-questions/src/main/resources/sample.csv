@@ -1,0 +1,6 @@
+Question,Option 1,Option 2,Option 3,Option 4,Open Question,Correct Answer
+Text of the question (required),Text for option 1 (required),Text for option 2 (required),Text for option 3 (optional),Text for option 4 (optional),false,2
+Text of the question (required),Text for option 1 (required),Text for option 2 (required),Text for option 3 (optional),Text for option 4 (optional),false,1
+Text of the question (required),Text for option 1 (required),Text for option 2 (required),Text for option 3 (optional),Text for option 4 (optional),false,3
+Text of the question (required),Text for option 1 (required),Text for option 2 (required),Text for option 3 (optional),Text for option 4 (optional),false,4
+Text of the question (required),,,,,true,
