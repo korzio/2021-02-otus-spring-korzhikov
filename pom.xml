@@ -10,4 +10,7 @@
 
     <packaging>pom</packaging>
 
+    <modules>
+        <module>spring-01-ioc-csv-questions</module>
+    </modules>
 </project>
